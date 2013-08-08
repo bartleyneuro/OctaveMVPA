@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/371/trunk/contrib/io/BV
+END
+importVTC.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/371/trunk/contrib/io/BV/importVTC.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/371/trunk/contrib/io/BV/README.txt
+END
+load_bv_mask-AA.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/371/trunk/contrib/io/BV/load_bv_mask-AA.m
+END
+load_bv_pattern-AA.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/371/trunk/contrib/io/BV/load_bv_pattern-AA.m
+END

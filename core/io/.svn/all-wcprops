@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/343/trunk/core/io
+END
+load_afni_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/io/load_afni_mask.m
+END
+write_to_afni.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/343/trunk/core/io/write_to_afni.m
+END
+load_spm_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/io/load_spm_mask.m
+END
+load_afni_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/343/trunk/core/io/load_afni_pattern.m
+END
+load_pattern_from_hd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/io/load_pattern_from_hd.m
+END
+write_to_spm.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/io/write_to_spm.m
+END
+load_spm_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/294/trunk/core/io/load_spm_pattern.m
+END
+write_regs_1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/io/write_regs_1d.m
+END
+zeroify_write_afni.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/io/zeroify_write_afni.m
+END
+load_matrix_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/io/load_matrix_pattern.m
+END
+write_out_censor_from_sel.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/io/write_out_censor_from_sel.m
+END
+load_subj.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/io/load_subj.m
+END
+load_bv_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/io/load_bv_pattern.m
+END

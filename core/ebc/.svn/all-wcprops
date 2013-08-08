@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/core/ebc
+END
+ebc_average_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/ebc/ebc_average_results.m
+END
+ebc_tutorial_adv_load.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_adv_load.m
+END
+ebc_tutorial_adv_optimize.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_adv_optimize.m
+END
+ebc_tutorial_adv.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_adv.m
+END
+ebc_tutorial_intro.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_intro.m
+END
+ebc_tutorial_adv_preprocess.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_adv_preprocess.m
+END
+ebc_tutorial_parameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_parameters.m
+END
+ebc_tutorial_adv_xval.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/ebc/ebc_tutorial_adv_xval.m
+END
+ebc_feature_rater.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/ebc/ebc_feature_rater.m
+END

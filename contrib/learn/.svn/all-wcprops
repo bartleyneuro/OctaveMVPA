@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/349/trunk/contrib/learn
+END
+test_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/contrib/learn/test_svm.m
+END
+optimal_penalty_search.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/349/trunk/contrib/learn/optimal_penalty_search.m
+END
+perfmet_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/contrib/learn/perfmet_svm.m
+END
+train_lda.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/contrib/learn/train_lda.m
+END
+test_lda.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/contrib/learn/test_lda.m
+END
+train_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/contrib/learn/train_svm.m
+END
+perfmet_lda.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/contrib/learn/perfmet_lda.m
+END

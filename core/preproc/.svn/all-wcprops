@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/365/trunk/core/preproc
+END
+convert_mask_idx_to_mask_coords.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/343/trunk/core/preproc/convert_mask_idx_to_mask_coords.m
+END
+statmap_xcorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/preproc/statmap_xcorr.m
+END
+statmap_searchlight.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/preproc/statmap_searchlight.m
+END
+make_clust.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/preproc/make_clust.m
+END
+zscore_mvpa.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/preproc/zscore_mvpa.m
+END
+apply_detrend.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/preproc/apply_detrend.m
+END
+feature_select.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/preproc/feature_select.m
+END
+shift_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/preproc/shift_regressors.m
+END
+create_thresh_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/create_thresh_mask.m
+END
+statmap_anova.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/preproc/statmap_anova.m
+END
+create_sorted_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/343/trunk/core/preproc/create_sorted_mask.m
+END
+peek_feature_select.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/preproc/peek_feature_select.m
+END
+calc_avg_adj_neighborhood_size.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/core/preproc/calc_avg_adj_neighborhood_size.m
+END
+average_object.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/preproc/average_object.m
+END
+blur_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/365/trunk/core/preproc/blur_pattern.m
+END
+compute_xcorr.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/compute_xcorr.mexa64
+END
+compute_xcorr.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/compute_xcorr.mexglx
+END
+apply_filt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/preproc/apply_filt.m
+END
+convert_mask_to_pat_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/preproc/convert_mask_to_pat_idx.m
+END
+statmap_classify.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/preproc/statmap_classify.m
+END
+scramble_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/347/trunk/core/preproc/scramble_regressors.m
+END
+create_balanced_xvalid_selectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/137/trunk/core/preproc/create_balanced_xvalid_selectors.m
+END
+compute_xcorr.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/compute_xcorr.mexmac
+END
+statmap_glm_multiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/statmap_glm_multiv.m
+END
+create_xvalid_indices.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/137/trunk/core/preproc/create_xvalid_indices.m
+END
+apply_zscore.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/core/preproc/apply_zscore.m
+END
+convert_pat_idx_to_mask_coords.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/core/preproc/convert_pat_idx_to_mask_coords.m
+END
+create_xvalid_oddeven.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/core/preproc/create_xvalid_oddeven.m
+END
+convert_mask_coords_to_pat_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/core/preproc/convert_mask_coords_to_pat_idx.m
+END
+statmap_3dDeconvolve.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/137/trunk/core/preproc/statmap_3dDeconvolve.m
+END
+filter_runs.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/preproc/filter_runs.m
+END
+apply_to_runs.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/preproc/apply_to_runs.m
+END
+intersect_masks.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/343/trunk/core/preproc/intersect_masks.m
+END
+and_bool_selectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/and_bool_selectors.m
+END
+create_blocklabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/preproc/create_blocklabels.m
+END
+create_main_effect_contrast.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/core/preproc/create_main_effect_contrast.m
+END
+adj_sphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/preproc/adj_sphere.m
+END
+convert_pat_to_mask_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/preproc/convert_pat_to_mask_idx.m
+END
+convolve_regressors_afni.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/preproc/convolve_regressors_afni.m
+END
+anova1_mvpa.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/preproc/anova1_mvpa.m
+END
+zscore_runs.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/preproc/zscore_runs.m
+END
+create_adj_list.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/preproc/create_adj_list.m
+END
+compute_xcorr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/preproc/compute_xcorr.c
+END
+balance_active_selector.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/preproc/balance_active_selector.m
+END
+create_spatial_avg_pat.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/core/preproc/create_spatial_avg_pat.m
+END
+binarize_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/preproc/binarize_regressors.m
+END
+detrend_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/preproc/detrend_pattern.m
+END
+separate_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/preproc/separate_regressors.m
+END
+adj_cuboid.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/preproc/adj_cuboid.m
+END

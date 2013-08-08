@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/core/vis
+END
+darkgray.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/vis/darkgray.m
+END
+view_montage.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/vis/view_montage.m
+END
+view_pattern_overlay.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/vis/view_pattern_overlay.m
+END
+build_overlay_rgb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/vis/build_overlay_rgb.m
+END
+plot_deviations_from_condmean.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/core/vis/plot_deviations_from_condmean.m
+END
+barerr.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/vis/barerr.m
+END
+plot_mds.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/vis/plot_mds.m
+END
+plot_stability.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/vis/plot_stability.m
+END
+imagetxt.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/vis/imagetxt.m
+END
+bluewhitered.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/vis/bluewhitered.m
+END
+image_mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/vis/image_mat.m
+END

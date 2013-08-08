@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/tests/broken
+END
+unit_adj_sphere2.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/broken/unit_adj_sphere2.m
+END
+unit_statmap_xcorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tests/broken/unit_statmap_xcorr.m
+END
+unit_write_to_afni.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tests/broken/unit_write_to_afni.m
+END
+unit_statmap_mitchell.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tests/broken/unit_statmap_mitchell.m
+END
+unit_class_gnb.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tests/broken/unit_class_gnb.m
+END
+oldtest_train_bp.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/broken/oldtest_train_bp.m
+END
+unit_statmap_anova.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/tests/broken/unit_statmap_anova.m
+END
+unit_traintest_bp.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/broken/unit_traintest_bp.m
+END
+unit_class_ridge_denis.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/tests/broken/unit_class_ridge_denis.m
+END
+unit_traintest_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tests/broken/unit_traintest_corr.m
+END
+unit_remove_singletons.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/tests/broken/unit_remove_singletons.m
+END
+unit_convert_maskpat_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tests/broken/unit_convert_maskpat_idx.m
+END
+unit_wavestrapper_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tests/broken/unit_wavestrapper_results.m
+END
+unit_adj_sphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tests/broken/unit_adj_sphere.m
+END
+unit_extent.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tests/broken/unit_extent.m
+END
+unit_create_adj_list.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tests/broken/unit_create_adj_list.m
+END
+unit_class_ridge.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/broken/unit_class_ridge.m
+END
+unit_create_anatomical_regions.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/tests/broken/unit_create_anatomical_regions.m
+END
+unit_separate_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tests/broken/unit_separate_regressors.m
+END
+unit_adj_cuboid.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tests/broken/unit_adj_cuboid.m
+END

@@ -1,0 +1,2123 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/netlab
+END
+dempot.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/dempot.htm
+END
+mdnpost.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mdnpost.m
+END
+mlptrain.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlptrain.m
+END
+demgmm5.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgmm5.htm
+END
+mlpunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpunpak.m
+END
+linemin.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/linemin.htm
+END
+sompak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/sompak.m
+END
+gpinit.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gpinit.m
+END
+neterr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/neterr.htm
+END
+demkmn1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demkmn1.m
+END
+gmmsamp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gmmsamp.htm
+END
+som.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/som.m
+END
+demtrain.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/demtrain.htm
+END
+fevbayes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/fevbayes.htm
+END
+demsom1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demsom1.htm
+END
+hmc.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/hmc.htm
+END
+hintmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/hintmat.m
+END
+rosegrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rosegrad.m
+END
+rbffwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbffwd.htm
+END
+mlphess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mlphess.htm
+END
+gmmpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gmmpak.htm
+END
+scg.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/scg.htm
+END
+nethess.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/nethess.m
+END
+netpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/netpak.htm
+END
+consist.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/consist.htm
+END
+mdnpost.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mdnpost.htm
+END
+netevfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/netevfwd.m
+END
+mlpgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mlpgrad.htm
+END
+demkmn1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demkmn1.htm
+END
+linemin.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/linemin.m
+END
+demgmm5.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgmm5.m
+END
+hintmat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/hintmat.htm
+END
+demtrain.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demtrain.m
+END
+datread.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/datread.m
+END
+rbf.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/rbf.htm
+END
+rbfgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/rbfgrad.m
+END
+gbayes.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gbayes.m
+END
+mlphess.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mlphess.m
+END
+graddesc.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/graddesc.m
+END
+mdnunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdnunpak.m
+END
+evidence.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/evidence.htm
+END
+rbfsetfw.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfsetfw.htm
+END
+demhmc2.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demhmc2.m
+END
+demhint.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demhint.htm
+END
+rosen.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/rosen.m
+END
+demolgd1.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demolgd1.m
+END
+mdn2gmm.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mdn2gmm.htm
+END
+datread.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/datread.htm
+END
+gpunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gpunpak.htm
+END
+gmmactiv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gmmactiv.htm
+END
+mlpprior.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpprior.m
+END
+glmderiv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/glmderiv.htm
+END
+gtmprob.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gtmprob.htm
+END
+gpfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gpfwd.m
+END
+gtmlmode.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gtmlmode.m
+END
+graddesc.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/graddesc.htm
+END
+demopt1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demopt1.m
+END
+gperr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gperr.htm
+END
+gmm.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gmm.htm
+END
+errbayes.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/errbayes.m
+END
+demev1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demev1.htm
+END
+gauss.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gauss.htm
+END
+datwrite.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/datwrite.htm
+END
+convertoldnet.htm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/netlab/convertoldnet.htm
+END
+mlpderiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpderiv.m
+END
+confmat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/confmat.htm
+END
+mlppak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mlppak.m
+END
+dist2.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/dist2.m
+END
+mlpbkp.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mlpbkp.m
+END
+demns1.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/demns1.m
+END
+knnfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/knnfwd.m
+END
+demolgd1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/demolgd1.htm
+END
+somfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/somfwd.htm
+END
+demmlp1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demmlp1.htm
+END
+demard.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/demard.m
+END
+mlperr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlperr.htm
+END
+gppak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gppak.htm
+END
+demgpot.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgpot.m
+END
+gmmprob.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gmmprob.htm
+END
+mlpprior.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlpprior.htm
+END
+gp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/netlab/gp.htm
+END
+gtmlmean.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gtmlmean.m
+END
+gmminit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gmminit.m
+END
+mlphint.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mlphint.htm
+END
+gtminit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gtminit.htm
+END
+errbayes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/errbayes.htm
+END
+rbffwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/rbffwd.m
+END
+kmeans.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/kmeans.htm
+END
+gmmunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gmmunpak.htm
+END
+demhmc3.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demhmc3.m
+END
+mlppak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlppak.htm
+END
+gpcovarp.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gpcovarp.m
+END
+demprior.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demprior.m
+END
+knn.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/knn.htm
+END
+consist.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/consist.m
+END
+netpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/netpak.m
+END
+datwrite.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/datwrite.m
+END
+mdndist2.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdndist2.m
+END
+mlpevfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpevfwd.m
+END
+demgmm2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgmm2.htm
+END
+conjgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/conjgrad.m
+END
+demard.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demard.htm
+END
+demknn1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demknn1.m
+END
+demnlab.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demnlab.htm
+END
+hinton.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/hinton.m
+END
+gmminit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gmminit.htm
+END
+gtmlmean.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gtmlmean.htm
+END
+gmmprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gmmprob.m
+END
+maxitmess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/netlab/maxitmess.htm
+END
+mdnunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mdnunpak.htm
+END
+demhmc1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demhmc1.htm
+END
+mlphint.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mlphint.m
+END
+gtminit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gtminit.m
+END
+plotmat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/plotmat.htm
+END
+glmtrain.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmtrain.m
+END
+glmunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmunpak.m
+END
+mdnfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mdnfwd.m
+END
+mlpevfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlpevfwd.htm
+END
+mdndist2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mdndist2.htm
+END
+mlptrain.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlptrain.htm
+END
+evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/evidence.m
+END
+rbfsetfw.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfsetfw.m
+END
+mdnerr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdnerr.htm
+END
+minbrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/minbrack.m
+END
+demglm1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demglm1.m
+END
+mlp.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/mlp.m
+END
+som.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/som.htm
+END
+demgtm1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgtm1.m
+END
+gmmsamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gmmsamp.m
+END
+rosegrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rosegrad.htm
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/index.htm
+END
+mdnpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdnpak.htm
+END
+gtmprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gtmprob.m
+END
+gtmmag.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gtmmag.m
+END
+glmfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/glmfwd.m
+END
+dist2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/dist2.htm
+END
+mlpbkp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpbkp.htm
+END
+gauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gauss.m
+END
+gtm.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gtm.htm
+END
+demmdn1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demmdn1.m
+END
+gtmfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gtmfwd.m
+END
+mdnprob.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mdnprob.htm
+END
+rbfsetbf.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfsetbf.m
+END
+pca.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/pca.htm
+END
+gppak.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gppak.m
+END
+gpcovarf.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gpcovarf.htm
+END
+rbftrain.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbftrain.m
+END
+gtmmag.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gtmmag.htm
+END
+demgauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demgauss.m
+END
+rbfunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfunpak.m
+END
+rbfjacob.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfjacob.m
+END
+rbf.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/rbf.m
+END
+demev2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demev2.htm
+END
+glm.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/glm.m
+END
+eigdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/eigdec.m
+END
+rosen.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/rosen.htm
+END
+mlpunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlpunpak.htm
+END
+demglm2.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demglm2.m
+END
+dempot.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/dempot.m
+END
+demknn1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demknn1.htm
+END
+rbfhess.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/rbfhess.m
+END
+demmlp2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demmlp2.htm
+END
+mdninit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mdninit.htm
+END
+demgtm2.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgtm2.m
+END
+mdn2gmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mdn2gmm.m
+END
+demnlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demnlab.m
+END
+pca.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/pca.m
+END
+gradchek.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gradchek.htm
+END
+rbfpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/rbfpak.m
+END
+rbfbkp.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/rbfbkp.m
+END
+glmevfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/glmevfwd.htm
+END
+hbayes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/hbayes.htm
+END
+gsamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gsamp.m
+END
+glmderiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmderiv.m
+END
+glmtrain.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/glmtrain.htm
+END
+maxitmess.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/maxitmess.m
+END
+mdngrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mdngrad.m
+END
+demrbf1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demrbf1.htm
+END
+demev1.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/demev1.m
+END
+glmerr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmerr.htm
+END
+olgd.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/netlab/olgd.m
+END
+demgmm3.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgmm3.htm
+END
+rbfhess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/rbfhess.htm
+END
+hesschek.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/hesschek.m
+END
+demprgp.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demprgp.m
+END
+gmmem.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gmmem.htm
+END
+rbfderiv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfderiv.htm
+END
+mlperr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mlperr.m
+END
+rbfgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/rbfgrad.htm
+END
+glmpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmpak.htm
+END
+mdngrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mdngrad.htm
+END
+mdnpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mdnpak.m
+END
+mdnnet.mat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdnnet.mat
+END
+glmevfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmevfwd.m
+END
+hbayes.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/hbayes.m
+END
+demhmc2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demhmc2.htm
+END
+netderiv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/netderiv.htm
+END
+mdn.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/mdn.m
+END
+demmdn1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demmdn1.htm
+END
+rbfprior.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfprior.m
+END
+gmmpost.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gmmpost.m
+END
+histp.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/histp.m
+END
+demgmm1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgmm1.m
+END
+demhint.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demhint.m
+END
+rbfsetbf.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfsetbf.htm
+END
+somtrain.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/somtrain.m
+END
+gpcovar.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gpcovar.htm
+END
+somunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/somunpak.m
+END
+neterr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/neterr.m
+END
+rbfderiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfderiv.m
+END
+gpfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gpfwd.htm
+END
+gtmem.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gtmem.htm
+END
+metrop.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/metrop.m
+END
+hmc.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/hmc.m
+END
+glmunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/glmunpak.htm
+END
+glmpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/glmpak.m
+END
+glmgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/glmgrad.m
+END
+rbferr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbferr.htm
+END
+ppca.htm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/ppca.htm
+END
+gmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/gmm.m
+END
+demglm1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demglm1.htm
+END
+demev2.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/demev2.m
+END
+minbrack.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/minbrack.htm
+END
+knnfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/knnfwd.htm
+END
+demns1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demns1.htm
+END
+mlpfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlpfwd.htm
+END
+somtrain.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/somtrain.htm
+END
+demgtm1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgtm1.htm
+END
+demgpot.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgpot.htm
+END
+quasinew.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/quasinew.m
+END
+gtmpost.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gtmpost.m
+END
+rbfpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfpak.htm
+END
+mdninit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mdninit.m
+END
+netopt.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/netopt.htm
+END
+rbfevfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfevfwd.m
+END
+netinit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/netinit.htm
+END
+demev3.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demev3.htm
+END
+olgd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/olgd.htm
+END
+ppca.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/netlab/ppca.m
+END
+conjgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/conjgrad.htm
+END
+netgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/netgrad.m
+END
+demtrain2.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demtrain2.m
+END
+demgmm2.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgmm2.m
+END
+quasinew.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/quasinew.htm
+END
+hesschek.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/hesschek.htm
+END
+hinton.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/hinton.htm
+END
+linef.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/linef.m
+END
+mlphdotv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mlphdotv.m
+END
+glminit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/glminit.htm
+END
+mdnprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mdnprob.m
+END
+gmmem.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gmmem.m
+END
+gtmlmode.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gtmlmode.htm
+END
+nethess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/nethess.htm
+END
+gmmactiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gmmactiv.m
+END
+mdnfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/mdnfwd.htm
+END
+gperr.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gperr.m
+END
+netgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/netgrad.htm
+END
+plotmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/plotmat.m
+END
+rbfprior.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfprior.htm
+END
+demev3.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/demev3.m
+END
+xor.dat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/xor.dat
+END
+demgmm4.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgmm4.htm
+END
+mlpgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mlpgrad.m
+END
+confmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/confmat.m
+END
+somunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/somunpak.htm
+END
+oilTst.dat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/oilTst.dat
+END
+demmet1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demmet1.m
+END
+glmhess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/glmhess.htm
+END
+demmlp1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demmlp1.m
+END
+somfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/somfwd.m
+END
+rbfbkp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/rbfbkp.htm
+END
+glminit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/glminit.m
+END
+conffig.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/conffig.htm
+END
+glmgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/glmgrad.htm
+END
+demhmc3.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demhmc3.htm
+END
+gmmunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gmmunpak.m
+END
+rbferr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/rbferr.m
+END
+dem2ddat.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/dem2ddat.m
+END
+netunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/netunpak.m
+END
+sompak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/sompak.htm
+END
+gpinit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gpinit.htm
+END
+demmet1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demmet1.htm
+END
+gtmpost.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gtmpost.htm
+END
+demgmm3.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgmm3.m
+END
+demprgp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demprgp.htm
+END
+demgp.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/demgp.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/Contents.m
+END
+foptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/foptions.m
+END
+rbfevfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfevfwd.htm
+END
+rbftrain.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbftrain.htm
+END
+gpgrad.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gpgrad.m
+END
+demsom1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demsom1.m
+END
+demopt1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demopt1.htm
+END
+netinit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/netinit.m
+END
+mdn.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/mdn.htm
+END
+conffig.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/conffig.m
+END
+glm.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/glm.htm
+END
+netevfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/netevfwd.htm
+END
+dem2ddat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/dem2ddat.htm
+END
+gmmpost.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/gmmpost.htm
+END
+demglm2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demglm2.htm
+END
+mlp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/mlp.htm
+END
+convertoldnet.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/netlab/convertoldnet.m
+END
+mdnerr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mdnerr.m
+END
+demgp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgp.htm
+END
+mlphdotv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlphdotv.htm
+END
+linef.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/linef.htm
+END
+demgtm2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgtm2.htm
+END
+netlogo.mat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/netlogo.mat
+END
+demmlp2.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demmlp2.m
+END
+gpgrad.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gpgrad.htm
+END
+gpcovar.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gpcovar.m
+END
+metrop.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/metrop.htm
+END
+gsamp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gsamp.htm
+END
+gbayes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gbayes.htm
+END
+gp.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/netlab/gp.m
+END
+gradchek.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gradchek.m
+END
+gtmem.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/gtmem.m
+END
+mlpinit.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/mlpinit.m
+END
+glmfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/glmfwd.htm
+END
+gpcovarp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/gpcovarp.htm
+END
+demprior.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/demprior.htm
+END
+kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/kmeans.m
+END
+demgpard.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/demgpard.htm
+END
+demrbf1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demrbf1.m
+END
+oilTrn.dat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/oilTrn.dat
+END
+gtmfwd.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gtmfwd.htm
+END
+knn.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/knn.m
+END
+gtm.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/gtm.m
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/netlab/LICENSE
+END
+glmerr.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/glmerr.m
+END
+mlpfwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/mlpfwd.m
+END
+demgmm4.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demgmm4.m
+END
+glmhess.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/glmhess.m
+END
+fevbayes.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/fevbayes.m
+END
+demgauss.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/demgauss.htm
+END
+rbfunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfunpak.htm
+END
+rbfjacob.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/rbfjacob.htm
+END
+gpunpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/gpunpak.m
+END
+gpcovarf.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/gpcovarf.m
+END
+mlpinit.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/mlpinit.htm
+END
+netopt.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/netopt.m
+END
+eigdec.htm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/eigdec.htm
+END
+scg.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/netlab/scg.m
+END
+gmmpak.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/netlab/gmmpak.m
+END
+mlpderiv.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/mlpderiv.htm
+END
+demhmc1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/demhmc1.m
+END
+lib_lic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/lib_lic.txt
+END
+netderiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/netderiv.m
+END
+netunpak.htm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/netlab/netunpak.htm
+END
+demgpard.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/netlab/demgpard.m
+END
+demgmm1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/netlab/demgmm1.htm
+END
+histp.htm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/netlab/histp.htm
+END

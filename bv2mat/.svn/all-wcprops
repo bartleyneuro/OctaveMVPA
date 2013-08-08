@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/bv2mat
+END
+bv_readvmp.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readvmp.m
+END
+bv_readvmr.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readvmr.m
+END
+bv_readstathdr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bv2mat/bv_readstathdr.m
+END
+bv_comparesmp.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/bv2mat/bv_comparesmp.m
+END
+CenteredNamedFigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bv2mat/CenteredNamedFigure.m
+END
+MakeGrayImageFigureForMatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/bv2mat/MakeGrayImageFigureForMatrix.m
+END
+MaximizeContrast.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/bv2mat/MaximizeContrast.m
+END
+bv_readglm.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readglm.m
+END
+read_str.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/bv2mat/read_str.m
+END
+bv_makematmap.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/bv2mat/bv_makematmap.m
+END
+bv_writevmp.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/bv2mat/bv_writevmp.m
+END
+bv_createsmpmap.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/bv2mat/bv_createsmpmap.m
+END
+platform_fopen.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bv2mat/platform_fopen.m
+END
+bv_readsrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readsrf.m
+END
+bv_readvtc.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readvtc.m
+END
+bv_readvoi.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readvoi.m
+END
+Matrix2Grayscale.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/bv2mat/Matrix2Grayscale.m
+END
+bv_readsmp.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bv2mat/bv_readsmp.m
+END

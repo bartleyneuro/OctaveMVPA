@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/365/trunk/core/learn
+END
+default_class_args.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/learn/default_class_args.m
+END
+test_bp_netlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/core/learn/test_bp_netlab.m
+END
+train_svdlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/learn/train_svdlr.m
+END
+logRegFun.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/learn/logRegFun.m
+END
+test_ridge.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/learn/test_ridge.m
+END
+perfmet_maxclass_ignore_rest.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/core/learn/perfmet_maxclass_ignore_rest.m
+END
+train_bp.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/359/trunk/core/learn/train_bp.m
+END
+smlr_mex.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/359/trunk/core/learn/smlr_mex.mexa64
+END
+train_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/learn/train_corr.m
+END
+cross_validation.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/365/trunk/core/learn/cross_validation.m
+END
+train_gnb.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/learn/train_gnb.m
+END
+test_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/learn/test_svm.m
+END
+smlr_mex.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/learn/smlr_mex.mexmac
+END
+train_smlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/learn/train_smlr.m
+END
+smlr_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/learn/smlr_mex.c
+END
+test_logreg.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/learn/test_logreg.m
+END
+perfmet_xcorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/learn/perfmet_xcorr.m
+END
+perfmet_for_class_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/learn/perfmet_for_class_corr.m
+END
+train_bp_netlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/learn/train_bp_netlab.m
+END
+train_ridge.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/learn/train_ridge.m
+END
+perfmet_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/learn/perfmet_corr.m
+END
+test_svdlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/learn/test_svdlr.m
+END
+perfmet_maxclass.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/learn/perfmet_maxclass.m
+END
+apply_trained_classifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/core/learn/apply_trained_classifier.m
+END
+test_bp.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/learn/test_bp.m
+END
+train_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/learn/train_svm.m
+END
+wavestrapper_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/learn/wavestrapper_results.m
+END
+test_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/learn/test_corr.m
+END
+test_gnb.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/learn/test_gnb.m
+END
+perfmet_xcorr_onoff.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/learn/perfmet_xcorr_onoff.m
+END
+interpret_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/learn/interpret_weights.m
+END
+MVPA_SVM_setup.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/learn/MVPA_SVM_setup.rtf
+END
+fastsvd.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/learn/fastsvd.m
+END
+test_smlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/learn/test_smlr.m
+END
+train_logreg.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/learn/train_logreg.m
+END
+smlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/learn/smlr.m
+END
+random_blocks.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/learn/random_blocks.m
+END

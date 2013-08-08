@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/359/trunk/tests
+END
+unit_zscore_mvpa.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/tests/unit_zscore_mvpa.m
+END
+unit_plot_deviations_from_condmean.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/tests/unit_plot_deviations_from_condmean.m
+END
+oldtest_set_mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/tests/oldtest_set_mat.m
+END
+spm_test_omnibus.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/294/trunk/tests/spm_test_omnibus.m
+END
+compare_struct.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tests/compare_struct.m
+END
+unit_and_bool_selectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/unit_and_bool_selectors.m
+END
+unit_hd_scripts.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/tests/unit_hd_scripts.m
+END
+alert_unit_errors.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tests/alert_unit_errors.m
+END
+unit_confusion.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tests/unit_confusion.m
+END
+unit_scramble_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/347/trunk/tests/unit_scramble_regressors.m
+END
+unit_create_xvalid_indices.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tests/unit_create_xvalid_indices.m
+END
+unit_spm_ana.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/294/trunk/tests/unit_spm_ana.m
+END
+unit_check_1ofn_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tests/unit_check_1ofn_regressors.m
+END
+unit_create_xvalid_oddeven.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/tests/unit_create_xvalid_oddeven.m
+END
+oldtest_compare_size.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tests/oldtest_compare_size.m
+END
+unit_perfmet_xcorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/tests/unit_perfmet_xcorr.m
+END
+generic_unit_classifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/generic_unit_classifier.m
+END
+unit_create_spatial_avg_pat.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tests/unit_create_spatial_avg_pat.m
+END
+unit_spm_ana_afnicompare.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/294/trunk/tests/unit_spm_ana_afnicompare.m
+END
+oldtest_tutorial_easy.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tests/oldtest_tutorial_easy.m
+END
+run_unit_tests.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tests/run_unit_tests.m
+END
+iserror.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/tests/iserror.m
+END
+unit_set_mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/tests/unit_set_mat.m
+END
+unit_spm_cellarrayfilename_load.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/294/trunk/tests/unit_spm_cellarrayfilename_load.m
+END
+unit_spm_afni_tutcompare.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/294/trunk/tests/unit_spm_afni_tutcompare.m
+END
+unit_get_group_as_matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/unit_get_group_as_matrix.m
+END
+unit_interpret_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tests/unit_interpret_weights.m
+END
+unit_create_balanced_xvalid_selectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/359/trunk/tests/unit_create_balanced_xvalid_selectors.m
+END
+unit_spm_ana_haxby_dat_compare.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/294/trunk/tests/unit_spm_ana_haxby_dat_compare.m
+END
+unit_volumize_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/tests/unit_volumize_pattern.m
+END
+unit_afni_cellarrayfilename_load.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tests/unit_afni_cellarrayfilename_load.m
+END
+unit_template.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/tests/unit_template.m
+END
+unit_smooth_predictions.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/tests/unit_smooth_predictions.m
+END
+unit_zscore_runs.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/tests/unit_zscore_runs.m
+END
+unit_afni.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/tests/unit_afni.m
+END

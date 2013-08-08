@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/359/trunk/core/util
+END
+titlef.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/core/util/titlef.m
+END
+idwt1.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/util/idwt1.m
+END
+db4dwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/core/util/db4dwt.m
+END
+unixf.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/util/unixf.m
+END
+exclude.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/exclude.m
+END
+normfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/util/normfilt.m
+END
+rows.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/core/util/rows.m
+END
+shuffle.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/shuffle.m
+END
+datetime.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/util/datetime.m
+END
+sympad.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/core/util/sympad.m
+END
+db4idwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/db4idwt.m
+END
+cross_entropy_deriv.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/util/cross_entropy_deriv.m
+END
+args_into_workspace.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/util/args_into_workspace.m
+END
+confusion.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/util/confusion.m
+END
+check_matlabVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/359/trunk/core/util/check_matlabVersion.m
+END
+progress.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/util/progress.m
+END
+mean_ignore_zeros.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/core/util/mean_ignore_zeros.m
+END
+get_matlabVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/359/trunk/core/util/get_matlabVersion.m
+END
+dispf.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/util/dispf.m
+END
+volumize_pattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/util/volumize_pattern.m
+END
+parse_3dinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/344/trunk/core/util/parse_3dinfo.py
+END
+create_legendre.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/core/util/create_legendre.m
+END
+bundle.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/core/util/bundle.m
+END
+eta.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/core/util/eta.m
+END
+onoff_metric.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/util/onoff_metric.m
+END
+check_1ofn_regressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/core/util/check_1ofn_regressors.m
+END
+dwt1.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/core/util/dwt1.m
+END
+multiple_iterations_confusion.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/core/util/multiple_iterations_confusion.m
+END
+sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/core/util/sample.m
+END
+euclidn.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/353/trunk/core/util/euclidn.m
+END
+getpropval.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/util/getpropval.m
+END
+genpathsafe.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/core/util/genpathsafe.m
+END
+mergestructs.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/util/mergestructs.m
+END
+wavescram.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/util/wavescram.m
+END
+readvtc.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/readvtc.m
+END
+ind2vec_robust.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/core/util/ind2vec_robust.m
+END
+count.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/util/count.m
+END
+wavelet_scramble_multi.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/util/wavelet_scramble_multi.m
+END
+cdata2rgb.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/util/cdata2rgb.m
+END
+compress.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/util/compress.m
+END
+arg2funct.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/core/util/arg2funct.m
+END
+ste.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/137/trunk/core/util/ste.m
+END
+mini.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/core/util/mini.m
+END
+vec2ind_inclrest.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/util/vec2ind_inclrest.m
+END
+maxi.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/core/util/maxi.m
+END
+sorti.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/core/util/sorti.m
+END
+cols.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/core/util/cols.m
+END
+compute_pval_1tailed.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/343/trunk/core/util/compute_pval_1tailed.m
+END
+mean_ignore_nans.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/core/util/mean_ignore_nans.m
+END
+urandom.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/urandom.m
+END
+get_perfmet_called.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/util/get_perfmet_called.m
+END
+cross_entropy.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/util/cross_entropy.m
+END
+iscategorical.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/core/util/iscategorical.m
+END
+estimate.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/core/util/estimate.m
+END
+dwt1expand.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/core/util/dwt1expand.m
+END
+compare_size.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/core/util/compare_size.m
+END
+spm_extract_voxel_dims.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/util/spm_extract_voxel_dims.m
+END
+propval.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/core/util/propval.m
+END

@@ -1,0 +1,839 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/afni_matlab
+END
+WriteBrikHEAD.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/WriteBrikHEAD.m
+END
+Test_BrikLoad.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/Test_BrikLoad.m
+END
+ShowRegressors.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/afni_matlab/ShowRegressors.m
+END
+AfniXYZ2AfniIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/AfniXYZ2AfniIndex.m
+END
+TaskTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/TaskTest.m
+END
+GE_readHeaderImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeaderImage.m
+END
+LabelAxis.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/LabelAxis.m
+END
+Plane_Equation.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/afni_matlab/Plane_Equation.m
+END
+MATVEC_to_WARP.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/afni_matlab/MATVEC_to_WARP.m
+END
+GE_readHeaderSeries.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeaderSeries.m
+END
+AFNI_IndexChange.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_IndexChange.m
+END
+GetWord.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/GetWord.m
+END
+FindChar.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/FindChar.m
+END
+TellAfni_Commands.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/TellAfni_Commands.m
+END
+zglobb.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/zglobb.m
+END
+termcross.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/termcross.m
+END
+plotsign2.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/plotsign2.m
+END
+suma_stitch.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/suma_stitch.m
+END
+zdeblankall.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/zdeblankall.m
+END
+BrikLoad.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/BrikLoad.m
+END
+THD_dicomm_to_3dmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/THD_dicomm_to_3dmm.m
+END
+QRDecom.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/QRDecom.m
+END
+VectStat.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/VectStat.m
+END
+Read_1D.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/Read_1D.m
+END
+AFNI_SliceDispManip.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_SliceDispManip.m
+END
+Test_m3dReorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/Test_m3dReorder.m
+END
+dofit.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/afni_matlab/dofit.m
+END
+GE_readHeaderExam.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeaderExam.m
+END
+MakeColorMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/MakeColorMap.m
+END
+Norm.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/afni_matlab/Norm.m
+END
+GroupAna.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/GroupAna.m
+END
+NewCs.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/afni_matlab/NewCs.m
+END
+CompCondNum.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/CompCondNum.m
+END
+GetNextLine.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/GetNextLine.m
+END
+Test_AFNI_XYZcontinuous2Index.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/afni_matlab/Test_AFNI_XYZcontinuous2Index.m
+END
+AFNI_OrientCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_OrientCode.m
+END
+GE_dumpHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/GE_dumpHeader.m
+END
+GE_dumpImageHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/GE_dumpImageHeader.m
+END
+DispIVSurf.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/DispIVSurf.m
+END
+ShowPlane.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/ShowPlane.m
+END
+AfniIndex2AfniXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/AfniIndex2AfniXYZ.m
+END
+SkipMatlabHelp.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/afni_matlab/SkipMatlabHelp.m
+END
+GetAfniSliceTriplet.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/afni_matlab/GetAfniSliceTriplet.m
+END
+GE_dumpExamHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/GE_dumpExamHeader.m
+END
+NextString.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/NextString.m
+END
+spm_bf.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/spm_bf.m
+END
+writeSPMmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/writeSPMmat.m
+END
+MatAFNI_Demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/MatAFNI_Demo.m
+END
+RemoveNiftiExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/afni_matlab/RemoveNiftiExtension.m
+END
+filexist.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/filexist.m
+END
+AFNI_XYZcontinuous2Index.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_XYZcontinuous2Index.m
+END
+angle_dist_nc.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/angle_dist_nc.m
+END
+GE_get_volsperrun.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/GE_get_volsperrun.m
+END
+sectotime.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/sectotime.m
+END
+TellAfniCheck.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/TellAfniCheck.m
+END
+GetPath.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/GetPath.m
+END
+isdigit.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/isdigit.m
+END
+Test_TellAfni.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/Test_TellAfni.m
+END
+rgbdectohex.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/rgbdectohex.m
+END
+WaverBasisOption.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/afni_matlab/WaverBasisOption.m
+END
+GE_readHeaderPixel.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeaderPixel.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/afni_matlab/README
+END
+BrikInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/BrikInfo.m
+END
+GE_dumpSeriesHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/afni_matlab/GE_dumpSeriesHeader.m
+END
+DeOblique.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/DeOblique.m
+END
+Remove1DExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/Remove1DExtension.m
+END
+WordCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/WordCount.m
+END
+BrikInfo_SectionValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/afni_matlab/BrikInfo_SectionValue.m
+END
+IntProj.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/IntProj.m
+END
+PurgeComments.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/PurgeComments.m
+END
+RemoveExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/RemoveExtension.m
+END
+ROIcmap.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/ROIcmap.m
+END
+setfsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/setfsize.m
+END
+TellAfni.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/TellAfni.m
+END
+Change1D2Carray.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/Change1D2Carray.m
+END
+ResliceBrick.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/ResliceBrick.m
+END
+WriteBrik.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/WriteBrik.m
+END
+isrow.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/afni_matlab/isrow.m
+END
+idummy.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/idummy.m
+END
+m3dReorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/m3dReorder.m
+END
+GE_readHeaderSuite.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeaderSuite.m
+END
+pad_strn.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/pad_strn.m
+END
+HEAD_Rules.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/HEAD_Rules.m
+END
+Rrank.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/afni_matlab/Rrank.m
+END
+RotateAboutAxis.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/RotateAboutAxis.m
+END
+readmtc.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/readmtc.m
+END
+DisplayAfniSlice.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/afni_matlab/DisplayAfniSlice.m
+END
+readsrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/readsrf.m
+END
+THD_3dmm_to_dicomm.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/afni_matlab/THD_3dmm_to_dicomm.m
+END
+wryte3.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/wryte3.m
+END
+spm_hrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/spm_hrf.m
+END
+GE_createSPMmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/GE_createSPMmat.m
+END
+PrefixStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/PrefixStatus.m
+END
+myrgb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/myrgb.txt
+END
+CheckBrikHEAD.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/CheckBrikHEAD.m
+END
+New_input.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/New_input.m
+END
+cstring.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/cstring.m
+END
+WhichSubBricks.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/afni_matlab/WhichSubBricks.m
+END
+gind2sub.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/gind2sub.m
+END
+tross_Encode_String.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/afni_matlab/tross_Encode_String.m
+END
+Info_1D.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/Info_1D.m
+END
+HistoryTrace.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/HistoryTrace.m
+END
+GE_convertVolume.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/afni_matlab/GE_convertVolume.m
+END
+Test_AFNI_Index2XYZcontinuous.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/afni_matlab/Test_AFNI_Index2XYZcontinuous.m
+END
+GE_convertADW.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/GE_convertADW.m
+END
+ScaleToMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/ScaleToMap.m
+END
+zdeblank.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/zdeblank.m
+END
+CheckPrefix.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/CheckPrefix.m
+END
+README.GE
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/README.GE
+END
+GetAfniSlice.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/GetAfniSlice.m
+END
+makemodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/makemodel.m
+END
+ErrEval.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/ErrEval.m
+END
+readXcol.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/readXcol.m
+END
+IndiAna.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/IndiAna.m
+END
+addsquare.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/afni_matlab/addsquare.m
+END
+Test_New_HEAD.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/Test_New_HEAD.m
+END
+AFNI_CoordChange.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_CoordChange.m
+END
+setfpos.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/setfpos.m
+END
+isint.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/afni_matlab/isint.m
+END
+README.attributes
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/afni_matlab/README.attributes
+END
+AFNI_Index2XYZcontinuous.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/afni_matlab/AFNI_Index2XYZcontinuous.m
+END
+README-1.0.GE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/README-1.0.GE
+END
+AfniPrefix.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/AfniPrefix.m
+END
+ContrastTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/afni_matlab/ContrastTest.m
+END
+eq_str.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/eq_str.m
+END
+spm_Gpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/spm_Gpdf.m
+END
+GE_readHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readHeader.m
+END
+termsnotcontained.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/afni_matlab/termsnotcontained.m
+END
+CA_EZ_Prep.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/afni_matlab/CA_EZ_Prep.m
+END
+Test_AFNI_IndexChange.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/afni_matlab/Test_AFNI_IndexChange.m
+END
+New_HEAD.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/New_HEAD.m
+END
+PreProc.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/PreProc.m
+END
+figarng.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/afni_matlab/figarng.m
+END
+GE_readVolume.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/GE_readVolume.m
+END
+ExamineXmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/afni_matlab/ExamineXmat.m
+END
+SumsOfSquares.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/afni_matlab/SumsOfSquares.m
+END
+zscale.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/afni_matlab/zscale.m
+END
+ShowCmap.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/ShowCmap.m
+END
+ContrVec.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/afni_matlab/ContrVec.m
+END
