@@ -1,4 +1,4 @@
-delete ~/.octaverc;
+%delete ~/.octaverc;
 
 %Turn off unnecessary warnings
 	%warning ("off", "Octave:possible-matlab-short-circuit-operator");
