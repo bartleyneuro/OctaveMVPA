@@ -1,32 +1,52 @@
-This the Princeton multi-voxel pattern analysis toolbox for
-Matlab.
+***************************************************************************************
+This is an Octave friendly conversion of the Princeton MVPA toolbox for Matlab, 
+including working implementations of AFNI-for-MATLAB and SPM for use with NIFTI files.
+***************************************************************************************
+
+------------------------------------------------------
+Octave Installation
+------------------------------------------------------
+#Windows
+#Download Precompiled Binaries, including MinGW/MSYS
+http://sourceforge.net/projects/octave/files/Octave%20Windows%20binaries/Octave%203.6.4%20for%20Windows%20MinGW%20installer/Octave3.6.4_gcc4.6.2_20130408.7z/download
+---------------------
+#Mac
+#THE CORRECT WAY TO INSTALL OCTAVE
+#Install Homebrew (if you don't have it already)
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+
+# Install Programs and dependencies
+brew tap homebrew/science
+brew update && brew upgrade
+brew install gfortran
+brew install octave
+
+#Leave Terminal and Download and Install AquaTerm package
+http://sourceforge.net/projects/aquaterm/files/latest/download?source=dlp
+
+#Return to Cmd line to install gnuplot
+brew install gnuplot
+
+
+------------------------------------------------------
+Add Octave Paths
+------------------------------------------------------
+#Run the octave_add_paths.m script from the latest Github distribution
+
+
+------------------------------------------------------
+Tutorial Data
+------------------------------------------------------
+The Tutorial Data and Tutorial Script are located on the BartleyNeuro website:
+
+
+***************************************************************************************
+
+For information on Princeton MVPA:
 
   http://code.google.com/p/princeton-mvpa-toolbox/
 
-See the website for more information, or for the latest version.
-
-Please contact mvpa-toolbox@googlegroups.com with any suggestions, bug reports
-or feedback.
-
-
-Copyright Greg J Detre, Sean M Polyn, Chris D Moore, Sylvain
-Takerkart, Vaidehi S Natu (2005)
-
-Distributed under the GNU Library GPL - see COPYING for details.
-
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program; if not, write to the Free Software
-    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
-    02110-1301 USA
+Princeton MVPA is Copyright Greg J Detre, Sean M Polyn, Chris D Moore, Sylvain
+Takerkart, Vaidehi S Natu (2005). It is Distributed under the GNU Library GPL.
 
 
