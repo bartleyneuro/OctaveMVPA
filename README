@@ -1,6 +1,6 @@
 ***************************************************************************************
 This is an Octave friendly conversion of the Princeton MVPA toolbox for Matlab, 
-including working implementations of AFNI-for-MATLAB and SPM for use with NIFTI files.
+including working implementations of AFNI-for-MATLAB and SPM for use with both NIFTI and AFNI .BRIK files.
 ***************************************************************************************
 
 ------------------------------------------------------
