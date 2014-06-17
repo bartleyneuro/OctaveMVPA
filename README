@@ -10,7 +10,7 @@ Octave Installation
 #Download Precompiled Binaries, including MinGW/MSYS
 http://sourceforge.net/projects/octave/files/Octave%20Windows%20binaries/Octave%203.6.4%20for%20Windows%20MinGW%20installer/Octave3.6.4_gcc4.6.2_20130408.7z/download
 
-#For the daring a binary release of Octave 3.8 complete with experimental GUI can be found here:
+#For the daring, a Windows binary release of Octave 3.8 complete with experimental GUI can be found here:
 http://mxeoctave.osuv.de/octave-3.8.1-4-portable.zip
 
 ---------------------
@@ -31,6 +31,8 @@ http://sourceforge.net/projects/aquaterm/files/latest/download?source=dlp
 #Return to Cmd line to install gnuplot
 brew install gnuplot
 
+#For the daring, an OSX binary release of Octave 3.8 complete with experimental GUI can be found here:
+http://sourceforge.net/projects/octave/files/Octave%20MacOSX%20Binary/2013-12-30%20binary%20installer%20of%20Octave%203.8.0%20for%20OSX%2010.9.1%20%28beta%29/
 
 ------------------------------------------------------
 Add Octave Paths
