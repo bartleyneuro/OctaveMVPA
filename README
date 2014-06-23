@@ -44,7 +44,7 @@ yum install octave-forge
 yum install octave-forge atlas
 
 ------------------------------------------------------
-Add Octave Paths
+Add Octave Paths (All Operating Systems)
 ------------------------------------------------------
 #Run the octave_add_paths.m script from the latest Github distribution
 
