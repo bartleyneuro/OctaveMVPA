@@ -17,7 +17,7 @@ http://mxeoctave.osuv.de/octave-3.8.0-5-installer.exe
 #Mac
 #THE CORRECT WAY TO INSTALL OCTAVE
 #Install Homebrew (if you don't have it already)
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
 # Install Programs and dependencies
 brew tap homebrew/science
