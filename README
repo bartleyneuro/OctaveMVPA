@@ -31,7 +31,7 @@ http://sourceforge.net/projects/aquaterm/files/latest/download?source=dlp
 #Return to Cmd line to install gnuplot
 brew install gnuplot
 
-#For the daring, an OSX installer for Octave 3.8 complete with experimental GUI can be found here:
+#For the daring, an OSX 10.9 installer for Octave 3.8 complete with experimental GUI can be found here:
 http://sourceforge.net/projects/octave/files/Octave%20MacOSX%20Binary/2013-12-30%20binary%20installer%20of%20Octave%203.8.0%20for%20OSX%2010.9.1%20%28beta%29/
 
 ---------------------
